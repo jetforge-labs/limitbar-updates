@@ -3,6 +3,20 @@
     <channel>
         <title>LimitBar</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Wed, 28 Oct 2026 14:04:56 +0100</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>LimitBar 1.0.1</h2>
+<p>Maintenance release. No changes in the app.</p>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/limitbar-updates/releases/download/v1.0.1/LimitBar-1.0.1.dmg" length="3272693" type="application/octet-stream" sparkle:edSignature="PCMXPa6WjVYppPpIGj9ORCuIGCdGuJeu25DCSlojzYJ7up1HREW3vsTKq6IT0AAY+sDnIE3tzkD+MfX7yMM3DQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/limitbar-updates/releases/download/v1.0.1/LimitBar6-5.delta" sparkle:deltaFrom="5" length="6830" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BLp8PK1vJ/ZH9lFhbqGsf0Gu+NFG9xxbURP4aK8v3POgVNaJQO6Gsfk/aE2bcXU18jamRQkvU2HwMWTg+nW4AQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Wed, 28 Oct 2026 13:51:33 +0100</pubDate>
             <sparkle:version>5</sparkle:version>
