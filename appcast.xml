@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>LimitBar</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Wed, 28 Oct 2026 13:51:33 +0100</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>LimitBar 1.0.0</h2>
+<p>The first stable release of LimitBar.</p>
+<ul>
+<li>Choose which limit appears next to the menu bar icon: the lowest one or any specific window.</li>
+<li>Claude Code or Codex are hidden when they are not installed on this Mac.</li>
+<li>The pace indicator is gone: each limit shows only what is left and when it resets.</li>
+<li>Automatic updates.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/limitbar-updates/releases/download/v1.0.0/LimitBar-1.0.0.dmg" length="3272685" type="application/octet-stream" sparkle:edSignature="JsUfKKEilvAJPdOH9nGanqYbI1gGvIrma2jvf0PBLeJgIqkz/UAnDrtsGpNwpMMB3RHbhUmAxmL/oSMItVe+Bg=="/>
+        </item>
+    </channel>
+</rss>
