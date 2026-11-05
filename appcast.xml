@@ -3,6 +3,23 @@
     <channel>
         <title>LimitBar</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Thu, 05 Nov 2026 15:55:44 +0100</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>LimitBar 1.1.0</h2>
+<ul>
+<li>Macbrow integration: your Claude and Codex usage now also shows in Macbrow's notch drawer. Connect it in Macbrow &gt; Settings &gt; Integrations.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/limitbar-updates/releases/download/v1.1.0/LimitBar-1.1.0.dmg" length="3301264" type="application/octet-stream" sparkle:edSignature="MZjJ7vP+reX6macxouY4ZcCx0ZHpIv05t+f5/34LqycBU5d++98gd0mu/4k/605CYrtYlBa9TO5E2xqfFVU6CQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/limitbar-updates/releases/download/v1.1.0/LimitBar7-6.delta" sparkle:deltaFrom="6" length="93218" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EHIbySEfd4T0spFlrq0/mdMtHF0Kz6HZDp00mERoajSSq8iEFwzUgrF3Kv53+Pq1jeHh5tETH9wdO9Z1jmskDQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/limitbar-updates/releases/download/v1.1.0/LimitBar7-5.delta" sparkle:deltaFrom="5" length="92574" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ee4gYrwqKMxs6B9rSkZ1Ls3byzPSCf/+xwgJHskWPTXhHUcKK7nneSHmeF+Ibq3xbEMHNPdn7VsIJStNjBgOBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Wed, 28 Oct 2026 14:04:56 +0100</pubDate>
             <sparkle:version>6</sparkle:version>
