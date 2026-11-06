@@ -3,6 +3,24 @@
     <channel>
         <title>LimitBar</title>
         <item>
+            <title>1.1.1</title>
+            <pubDate>Fri, 06 Nov 2026 15:41:04 +0000</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>LimitBar 1.1.1</h2>
+<ul>
+<li>Fix: the menu bar window no longer drifts downward after opening it several times. It now stays pinned right under the menu bar.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/limitbar-updates/releases/download/v1.1.1/LimitBar-1.1.1.dmg" length="3312629" type="application/octet-stream" sparkle:edSignature="w8bmCdINGIt8rNOgkO6GLB8L+5iDdK6xP3K7QSJp9JC6uKWHvw+wqBio5Ne7oT7a9MY7w2+jsNY/G8LZAqB+DQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/limitbar-updates/releases/download/v1.1.1/LimitBar8-7.delta" sparkle:deltaFrom="7" length="79106" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="T3aPN/5Jo70qBcuVyBi+PLWEXiAzjWlNtzADhNwbi9Gvqtzpq4ISaon3ySBkPtAUG1TPglhL9hmf9vt4a4UlCg=="/>
+                <enclosure url="https://github.com/jetforge-labs/limitbar-updates/releases/download/v1.1.1/LimitBar8-6.delta" sparkle:deltaFrom="6" length="110634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Z5frFlVDrbqs7mfJGM+QrndC3aPwT4gHqhnEuu7vJ1kTc19l1kGpqYdJ6irXDSSZk4iJmtr6DVSp29bui6eNDA=="/>
+                <enclosure url="https://github.com/jetforge-labs/limitbar-updates/releases/download/v1.1.1/LimitBar8-5.delta" sparkle:deltaFrom="5" length="110934" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vwBUIAXajT27l4TH0SZ9OpADrOc1PT0r93ieQvDt+8GFzGQLh373hiH/RlNrI9v4zl4IAJ6hmERcKpfcawwpDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Thu, 05 Nov 2026 15:55:44 +0100</pubDate>
             <sparkle:version>7</sparkle:version>
