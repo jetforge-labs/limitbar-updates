@@ -3,6 +3,26 @@
     <channel>
         <title>LimitBar</title>
         <item>
+            <title>1.1.2</title>
+            <pubDate>Sat, 07 Nov 2026 13:16:57 +0000</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>LimitBar 1.1.2</h2>
+<ul>
+<li>Fix: the menu bar window now opens right under the menu bar, without the extra gap on notched displays.</li>
+<li>Fix: the footer credits are now in English, like the rest of the app.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/limitbar-updates/releases/download/v1.1.2/LimitBar-1.1.2.dmg" length="3314006" type="application/octet-stream" sparkle:edSignature="wnEZbkL/6RiyII+OJa1nXS9e2V5ud4qduUv+HhWfjXGCCWm7dxYLQz9YUq79512N1SsM4zxtPnY4pKOUI9MsBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/limitbar-updates/releases/download/v1.1.2/LimitBar9-8.delta" sparkle:deltaFrom="8" length="50778" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gSn4W9sMYI3KhNBcCwvJ9a1dJLKWX64zAfwzSA+XBzkQCXjMto6QNkUub3VaaB5dYpF6ypr0NuPsZ4q9Dj2IDg=="/>
+                <enclosure url="https://github.com/jetforge-labs/limitbar-updates/releases/download/v1.1.2/LimitBar9-7.delta" sparkle:deltaFrom="7" length="81142" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wxVP5nN8jkM8kJeTrOPSlCPX99S0dWanQzwNhqnuyi6FTq7T5zsnEZY6i2HTS5VXyWZUUk3aa6858slM1uhABQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/limitbar-updates/releases/download/v1.1.2/LimitBar9-6.delta" sparkle:deltaFrom="6" length="112746" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/Sxv93M/oBFMbZlbsrYOWurjwRdtv5SWch3NQ0MgmXu8RsnaMhqh8QkRZTeh405kGAQqr1akkhaE9RRIklGlAw=="/>
+                <enclosure url="https://github.com/jetforge-labs/limitbar-updates/releases/download/v1.1.2/LimitBar9-5.delta" sparkle:deltaFrom="5" length="112834" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="808t5FWHtYqPGQt/388H6Lb47zGiU5AeGQY8vQbhkaUVTb+fnn4+epgZT/8FjGrd7eY/1KRSlzIfisM522iVAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Fri, 06 Nov 2026 15:41:04 +0000</pubDate>
             <sparkle:version>8</sparkle:version>
